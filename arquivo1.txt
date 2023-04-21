@@ -1,4 +1,1 @@
 arquivo 1
-alterando
-o arquivo
-1 direto no git
