@@ -1,2 +1,7 @@
 arquivo 1
 mais uma linha no arquivo 1
+a
+b
+c
+d
+
