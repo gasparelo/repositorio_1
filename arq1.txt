@@ -1,3 +1,11 @@
 arquivo 1
 mais uma linha no arquivo 1
-olá pessoal, estamos aqui me pleno domingo vendo o curso de github
+olá pessoal, estamos aqui em pleno domingo vendo o curso de github
+
+primeira linha
+segunta linha
+terceira linha
+
+hoje dia 06/05/2023, aqui mais um dia
+
+
