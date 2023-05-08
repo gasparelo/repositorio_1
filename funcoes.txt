@@ -1,8 +1,14 @@
 function 1
+
 function 2
+
 function 3
+
 function 4
+
 function 5
     desenvolvendo a funcao 5
     faltou este teste nesta branch
 
+function 
+    desenvolvendo funcao 6
